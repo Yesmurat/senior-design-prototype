@@ -1,4 +1,5 @@
 /*
+
 	Wildlife Collision Mitigation System
 	Senior Design - Week 1 Prototype
 
@@ -12,6 +13,14 @@
 	Author: Yesmurat Sagyndyk.
 	Summary: the code now controls both an ultrasonic sensor
 						and a servo motor. The schematic needs to be changed accordingly.
+
+TODOs:
+	1. The schematic needs to be changed accordingly.
+	2. An ultrasonic sensor should sit on top of the motor
+			to move along with the motor.
+	3. Decide on what camera to use in the future instead of an ultrasonic sensor.
+	4. Decide if we should switch to something that can support a small LVM...
+
 */
 
 #include <Servo.h>
