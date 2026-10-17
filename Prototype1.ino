@@ -10,6 +10,8 @@
 
 	Revision 1.
 	Author: Yesmurat Sagyndyk.
+	Summary: the code now controls both an ultrasonic sensor
+						and a servo motor. The schematic needs to be changed accordingly.
 */
 
 #include <Servo.h>
